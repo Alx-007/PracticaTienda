@@ -33,7 +33,7 @@ namespace Manejador
             return b;
         }
 
-        public void InsertarProductos(string codigo, string nombre, string descrpcion, string precio)
+        public void InsertarProductos(string nombre, string descrpcion, string precio)
         {
             b.Comando($"INSERT INTO productos VALUES (NULL, '{nombre}', '{descrpcion}', {double.Parse(precio)});");
         }
