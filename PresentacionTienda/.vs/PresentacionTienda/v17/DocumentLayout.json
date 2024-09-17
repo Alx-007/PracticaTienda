@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\moren\\Desktop\\PracticaTienda\\PresentacionTienda\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{597DFC08-F148-4B20-9C45-713EA3675DB4}|PresentacionTienda\\PresentacionTienda.csproj|C:\\Users\\moren\\Desktop\\PracticaTienda\\PresentacionTienda\\presentaciontienda\\almacenarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597DFC08-F148-4B20-9C45-713EA3675DB4}|PresentacionTienda\\PresentacionTienda.csproj|solutionrelative:presentaciontienda\\almacenarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{668A8508-F66D-40A6-A9A2-5FB5450CE3D6}|Manejador\\Manejador.csproj|c:\\users\\moren\\desktop\\practicatienda\\presentaciontienda\\manejador\\manejadorproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{668A8508-F66D-40A6-A9A2-5FB5450CE3D6}|Manejador\\Manejador.csproj|solutionrelative:manejador\\manejadorproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{597DFC08-F148-4B20-9C45-713EA3675DB4}|PresentacionTienda\\PresentacionTienda.csproj|C:\\Users\\moren\\Desktop\\PracticaTienda\\PresentacionTienda\\presentaciontienda\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{597DFC08-F148-4B20-9C45-713EA3675DB4}|PresentacionTienda\\PresentacionTienda.csproj|solutionrelative:presentaciontienda\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{597DFC08-F148-4B20-9C45-713EA3675DB4}|PresentacionTienda\\PresentacionTienda.csproj|C:\\Users\\moren\\Desktop\\PracticaTienda\\PresentacionTienda\\presentaciontienda\\almacenarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{597DFC08-F148-4B20-9C45-713EA3675DB4}|PresentacionTienda\\PresentacionTienda.csproj|solutionrelative:presentaciontienda\\almacenarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{597DFC08-F148-4B20-9C45-713EA3675DB4}|PresentacionTienda\\PresentacionTienda.csproj|C:\\Users\\moren\\Desktop\\PracticaTienda\\PresentacionTienda\\presentaciontienda\\almacenarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Productos.cs",
               "DocumentMoniker": "C:\\Users\\moren\\Desktop\\PracticaTienda\\PresentacionTienda\\PresentacionTienda\\Productos.cs",
               "RelativeDocumentMoniker": "PresentacionTienda\\Productos.cs",
@@ -54,15 +54,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AlmacenarProductos.cs",
               "DocumentMoniker": "C:\\Users\\moren\\Desktop\\PracticaTienda\\PresentacionTienda\\PresentacionTienda\\AlmacenarProductos.cs",
               "RelativeDocumentMoniker": "PresentacionTienda\\AlmacenarProductos.cs",
               "ToolTip": "C:\\Users\\moren\\Desktop\\PracticaTienda\\PresentacionTienda\\PresentacionTienda\\AlmacenarProductos.cs",
               "RelativeToolTip": "PresentacionTienda\\AlmacenarProductos.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBsAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T00:24:43.164Z"
+              "WhenOpened": "2024-09-17T00:24:43.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,11 +74,12 @@
               "ToolTip": "C:\\Users\\moren\\Desktop\\PracticaTienda\\PresentacionTienda\\PresentacionTienda\\AlmacenarProductos.cs [Dise\u00F1o]",
               "RelativeToolTip": "PresentacionTienda\\AlmacenarProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T23:34:42.498Z"
+              "WhenOpened": "2024-09-16T23:34:42.498Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ManejadorProducto.cs",
               "DocumentMoniker": "C:\\Users\\moren\\Desktop\\PracticaTienda\\PresentacionTienda\\Manejador\\ManejadorProducto.cs",
               "RelativeDocumentMoniker": "Manejador\\ManejadorProducto.cs",
@@ -102,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Productos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\moren\\Desktop\\PracticaTienda\\PresentacionTienda\\PresentacionTienda\\Productos.cs",
               "RelativeDocumentMoniker": "PresentacionTienda\\Productos.cs",

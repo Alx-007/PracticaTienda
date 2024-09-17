@@ -40,19 +40,7 @@ namespace PresentacionTienda
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            fila = e.RowIndex; columns = e.ColumnIndex;
-            switch (columns)
-            {
-                case 4:
-                    {
-                        id = int.Parse(dtgvProductos.Rows[fila].Cells[0].Value.ToString());
-                        mp.Borrar(id);
-                        Mostrar();
-                        txtBuscar.Text = "";
-                        txtBuscar.Focus();
-                    }
-                    break;
-            }
+           
         }
     }
 }
